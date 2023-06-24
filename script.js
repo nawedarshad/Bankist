@@ -7,7 +7,7 @@
 // Data
 const account1 = {
   owner: 'Nawed Arshad',
-  phone: 7903337982,
+  phone: 1234567890,
   movements: [200, 450, -400, 3000, -650, -130, 70, 1300],
   interestRate: 1.2,
   pin: 1111,
@@ -15,7 +15,7 @@ const account1 = {
 
 const account2 = {
   owner: 'Rahul Kumar',
-  phone: 1111111111,
+  phone: 1122334455,
   movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
   interestRate: 1.5,
   pin: 2222,
@@ -23,7 +23,7 @@ const account2 = {
 
 const account3 = {
   owner: 'Syed Merazul Hassan',
-  phone: 2222222222,
+  phone: 9876543210,
   movements: [200, -200, 340, -300, -20, 50, 400, -460],
   interestRate: 0.7,
   pin: 3333,
@@ -31,7 +31,7 @@ const account3 = {
 
 const account4 = {
   owner: 'Sarah',
-  phone: 7777777777,
+  phone: 5544332211,
   movements: [430, 1000, 700, 50, 90],
   interestRate: 1,
   pin: 4444,
